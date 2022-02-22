@@ -1,2 +1,2 @@
 # ParkingLotAssignment
-## This is the project for Parkig Lot Assignment
+## This is the project for Parking Lot Assignment
